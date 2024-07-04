@@ -8,7 +8,7 @@ urlpatterns = [
     path('books/', include('book.urls')),
    # path('', include('blog.urls')),
     path('api/', include('blog.urls')),
-    path('api/', include('sports.urls')),
+    path('apis/', include('sports.urls')),
 ]
 
 
