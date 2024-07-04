@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'book',
     'blog',
     'api',
-    'corsheaders',
+    'sports',
 ]
 
 MIDDLEWARE = [
